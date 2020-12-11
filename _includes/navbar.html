@@ -1,0 +1,33 @@
+<nav class="navbar navbar-expand-md navbar-light bg-eggshell">
+    <div class="container">
+        <div class="col-4 col-md-2">
+            <a class="navbar-brand" href="/"><img src="assets/images/logo.png" alt="Jeremy's Chicks" class="img-fluid"></a>
+        </div>
+        <div class="col-8 col-md-10 navdiv nopad-right">
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <div class="navbar-nav">
+                    <ul>
+                      {% for item in site.data.navbar %}
+                	    <li><a href="{{ item.link }}" {% if page.url == item.link %}class="currentnav"{% endif %}>{{ item.name }}</a></li>
+                	  {% endfor %}
+                    </ul>
+                </div>
+                <div class="socialnav">
+                    <ul class="socialnavul">
+                        <li><a href="https://www.instagram.com/jeremys.chicks/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.facebook.com/jeremys.chicks.food/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-2 col-8 nopad-right orderbtn">
+                <a href="index.html#order">Order Now</a>
+            </div>
+        </div>
+        <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="icon-bar top-bar"></span>
+            <span class="icon-bar middle-bar"></span>
+            <span class="icon-bar bottom-bar"></span>
+            <span class="sr-only">Toggle navigation</span>
+        </button>
+    </div>
+</nav>

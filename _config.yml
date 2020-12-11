@@ -1,0 +1,12 @@
+title: Jeremy's Chicks
+
+description: The home of Jeremy's fresh chicks from the kitchen to your doorstep
+
+logo: /assets/logo.png
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag

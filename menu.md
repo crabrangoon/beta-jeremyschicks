@@ -1,0 +1,262 @@
+---
+layout: default
+title: Menu
+description: Jeremy's chicks menu
+---
+<div class="bg-eggshell">
+	<div class="container">
+		<div class="row infopage menutitle">
+			<div class="col-12 titlediv pagetitle">
+				<h1 class="fontfamily1 fontcolor1">Menu</h1>
+			</div>
+			<div class="col-12 titlediv">
+				<h4 class="font-title">Main chicks</h4>
+			</div>
+		</div>
+		<div class="row menurow">
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/poached-chicken.jpg" alt="Poached Chicken" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Poached Chicken</h4>
+					<p>Whole (8 pax)<br>
+						Half (4 pax)<br>
+						Quarter (2 pax)</p>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/roasted-chicken.jpg" alt="Roasted Chicken" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Roasted Chicken</h4>
+					<p>Whole (8 pax)<br>
+						Half (4 pax)<br>
+						Quarter (2 pax)</p>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/charsiu-chicken.jpg" alt="Char Siu Chicken" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Char Siu Chicken</h4>
+					<p>Whole thigh</p>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/fried-chicken.jpg" alt="Fried Chicken" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Fried Chicken</h4>
+					<p>Whole thigh</p>
+				</div>
+			</div>
+		</div>
+		<div class="row infopage menutitle">
+			<div class="col-12 titlediv">
+				<h4 class="font-title">Chicks in Cliques</h4>
+			</div>
+		</div>
+		<div class="row menurow">
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/roasted-chicken-rice.jpg" alt="Roasted Chicken Rice" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Roasted Chicken<br>with Rice</h4>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/poached-chicken-rice.jpg" alt="Poached Chicken Rice" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Poached Chicken<br>with Rice</h4>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/charsiu-chicken-rice.jpg" alt="Char Siu Chicken Rice" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Char Siu Chicken<br>with Rice</h4>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/fried-chicken-rice.jpg" alt="Fried Chicken Rice" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Fried Chicken<br>with Rice</h4>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/fried-charsiu-chicken-rice.jpg" alt="Fried Chicken and Char Siu Chicken Rice" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Fried Chicken and<br>Char Siu Chicken<br>with Rice</h4>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/single-chick.jpg" alt="Single Chick" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Single Chick</h4>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/double-chicks.jpg" alt="Double Chicks" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Double Chicks</h4>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/chick-magnet.jpg" alt="The Chick Magnet" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>The Chick Magnet</h4>
+				</div>
+			</div>
+		</div>
+		<div class="row infopage menutitle">
+			<div class="col-12 titlediv">
+				<h4 class="font-title">Noodles</h4>
+			</div>
+		</div>
+		<div class="row menurow">
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/charsiu-chicken-soup.jpg" alt="Hong Kong Wanton Noodles + Char Siu Chicken" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Hong Kong Wanton Noodles + Char Siu Chicken</h4>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/poached-chicken-soup.jpg" alt="Hong Kong Wanton Noodles + Poached/ Roasted Chicken" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Hong Kong Wanton Noodles + Poached/ Roasted Chicken</h4>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/tempeh-vege-soup.jpg" alt="Hong Kong Wanton Noodles + Tofu/ Tempeh + Vege" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Hong Kong Wanton Noodles + Tofu/ Tempeh + Vege</h4>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/hongkong-wantan-noodle.jpg" alt="Hong Kong Wanton Noodles" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Hong Kong Wanton Noodles</h4>
+				</div>
+			</div>
+		</div>
+		<div class="row infopage menutitle">
+			<div class="col-12 titlediv">
+				<h4 class="font-title">Sides</h4>
+			</div>
+		</div>
+		<div class="row menurow">
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/whole-braised-egg.jpg" alt="Whole Braised Egg" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Whole Braised Egg</h4>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/braised-tofu.jpg" alt="Braised Tofu" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Braised Tofu</h4>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/silken-tofu-oyster-sauce.jpg" alt="Silken Tofu with Oyster Sauce" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Silken Tofu with Oyster Sauce</h4>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/silken-tofu-chicken-floss-oyster-sauce.jpg" alt="Silken Tofu with Chicken Floss & Oyster Sauce" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Silken Tofu with Chicken Floss & Oyster Sauce</h4>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/beansprouts.jpg" alt="Beansprouts" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Beansprouts</h4>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/kailan.jpg" alt="Kailan" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Kailan</h4>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/pokchoy.jpg" alt="Bok Choy" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Bok Choy</h4>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/soup-fish-balls.jpg" alt="Soup with Fish Balls" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Soup with Fish Balls</h4>
+					<p>Soup with 6 fish balls</p>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/soup-bursting-fish-balls.jpg" alt="Soup with bursting fish balls" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Soup with Bursting Fish Balls</h4>
+					<p>Soup with 6 bursting fish balls</p>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/soup-chicken-balls.jpg" alt="Soup with Chicken Balls" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Soup with Chicken Balls</h4>
+					<p>Soup with 6 chicken balls</p>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/tempeh.jpg" alt="Tempeh" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Tempeh</h4>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/brown-rice.jpg" alt="Brown Rice" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Brown Rice</h4>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/chicken-rice.jpg" alt="Chicken Rice" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Chicken Rice</h4>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/white-rice.jpg" alt="White Rice" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>White Rice</h4>
+				</div>
+			</div>
+		</div>
+		<div class="row infopage menutitle">
+			<div class="col-12 titlediv">
+				<h4 class="font-title">Beverage</h4>
+			</div>
+		</div>
+		<div class="row menurow">
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/crysanthemum.jpg" alt="Chrysanthemum" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Chrysanthemum</h4>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/homemade-honey-lemon.jpg" alt="Homemade Honey Lemon" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Homemade Honey Lemon</h4>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/barley-lime.jpg" alt="Homemade Barley with Lime" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Homemade Barley with Lime</h4>
+				</div>
+			</div>
+			<div class="col-12 col-lg-3 col-md-6 menudiv">
+				<img src="assets/images/menu/homemade-barley.jpg" alt="Homemade Barley" class="img-fluid">
+				<div class="col-12 nopad menuli">
+					<h4>Homemade Barley</h4>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
