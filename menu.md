@@ -13,7 +13,7 @@ description: Jeremy's chicks menu
 				<h4 class="font-title">Main chicks</h4>
 			</div>
 		</div>
-		<div class="row menurow">
+		<div class="row infopage menurow">
 			<div class="col-12 col-lg-3 col-md-6 menudiv">
 				<img src="assets/images/menu/poached-chicken.JPG" alt="Poached Chicken" class="img-fluid">
 				<div class="col-12 nopad menuli">
@@ -52,7 +52,7 @@ description: Jeremy's chicks menu
 				<h4 class="font-title">Chicks in Cliques</h4>
 			</div>
 		</div>
-		<div class="row menurow">
+		<div class="row infopage menurow">
 			<div class="col-12 col-lg-3 col-md-6 menudiv">
 				<img src="assets/images/menu/roasted-chicken-rice.jpg" alt="Roasted Chicken Rice" class="img-fluid">
 				<div class="col-12 nopad menuli">
@@ -107,7 +107,7 @@ description: Jeremy's chicks menu
 				<h4 class="font-title">Noodles</h4>
 			</div>
 		</div>
-		<div class="row menurow">
+		<div class="row infopage menurow">
 			<div class="col-12 col-lg-3 col-md-6 menudiv">
 				<img src="assets/images/menu/charsiu-chicken-soup.jpg" alt="Hong Kong Wanton Noodles + Char Siu Chicken" class="img-fluid">
 				<div class="col-12 nopad menuli">
@@ -138,7 +138,7 @@ description: Jeremy's chicks menu
 				<h4 class="font-title">Sides</h4>
 			</div>
 		</div>
-		<div class="row menurow">
+		<div class="row infopage menurow">
 			<div class="col-12 col-lg-3 col-md-6 menudiv">
 				<img src="assets/images/menu/whole-braised-egg.jpg" alt="Whole Braised Egg" class="img-fluid">
 				<div class="col-12 nopad menuli">
@@ -232,7 +232,7 @@ description: Jeremy's chicks menu
 				<h4 class="font-title">Beverage</h4>
 			</div>
 		</div>
-		<div class="row menurow">
+		<div class="row infopage menurow">
 			<div class="col-12 col-lg-3 col-md-6 menudiv">
 				<img src="assets/images/menu/crysanthemum.jpg" alt="Chrysanthemum" class="img-fluid">
 				<div class="col-12 nopad menuli">
