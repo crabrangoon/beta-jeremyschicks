@@ -15,7 +15,7 @@ description: Jeremy's chicks menu
 		</div>
 		<div class="row menurow">
 			<div class="col-12 col-lg-3 col-md-6 menudiv">
-				<img src="assets/images/menu/poached-chicken.jpg" alt="Poached Chicken" class="img-fluid">
+				<img src="assets/images/menu/poached-chicken.JPG" alt="Poached Chicken" class="img-fluid">
 				<div class="col-12 nopad menuli">
 					<h4>Poached Chicken</h4>
 					<p>Whole (8 pax)<br>
@@ -24,7 +24,7 @@ description: Jeremy's chicks menu
 				</div>
 			</div>
 			<div class="col-12 col-lg-3 col-md-6 menudiv">
-				<img src="assets/images/menu/roasted-chicken.jpg" alt="Roasted Chicken" class="img-fluid">
+				<img src="assets/images/menu/roasted-chicken.JPG" alt="Roasted Chicken" class="img-fluid">
 				<div class="col-12 nopad menuli">
 					<h4>Roasted Chicken</h4>
 					<p>Whole (8 pax)<br>
@@ -33,14 +33,14 @@ description: Jeremy's chicks menu
 				</div>
 			</div>
 			<div class="col-12 col-lg-3 col-md-6 menudiv">
-				<img src="assets/images/menu/charsiu-chicken.jpg" alt="Char Siu Chicken" class="img-fluid">
+				<img src="assets/images/menu/charsiu-chicken.JPG" alt="Char Siu Chicken" class="img-fluid">
 				<div class="col-12 nopad menuli">
 					<h4>Char Siu Chicken</h4>
 					<p>Whole thigh</p>
 				</div>
 			</div>
 			<div class="col-12 col-lg-3 col-md-6 menudiv">
-				<img src="assets/images/menu/fried-chicken.jpg" alt="Fried Chicken" class="img-fluid">
+				<img src="assets/images/menu/fried-chicken.JPG" alt="Fried Chicken" class="img-fluid">
 				<div class="col-12 nopad menuli">
 					<h4>Fried Chicken</h4>
 					<p>Whole thigh</p>
