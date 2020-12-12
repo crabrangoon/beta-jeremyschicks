@@ -1,6 +1,6 @@
 - name: Food
-  link: {{ site.baseurl }}/menu.html
+  link: /menu.html
 - name: Story
-  link: {{ site.baseurl }}/about.html
+  link: /about.html
 - name: Location
-  link: {{ site.baseurl }}/location.html
+  link: /location.html
