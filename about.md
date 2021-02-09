@@ -11,15 +11,14 @@ description: The story of Jeremy's chicks
 					<h1 class="fontfamily1 fontcolor1">Story</h1>
 				</div>
 				<div class="col-12 nopad titlediv">
-					<h4 class="font-title">Behind every amazing chick</h4>
-					<h1 class="fontfamily1 fontcolor1">There will be a man</h1>
+					<h4 class="font-title">Behind Every Chick,</h4>
+					<h1 class="fontfamily1 fontcolor1">There Will Be A Man</h1>
 				</div>
 				<div class="col-12 nopad titlediv titlediv2">
 					<h4 class="font-title">Meet Jeremy</h4>
 				</div>
 				<div class="col-12 nopad textdiv">
-					<p>Hainanese chicken rice is a dish adapted from early Chinese immigrants originally from Hainan province in southern China. It is based on a well-known Hainanese dish called Wenchang chicken (文昌雞), which is one of four important Hainan dishes dating to the Qin dynasty. The Hainanese in China traditionally used a specific breed, the Wenchang chicken, to make the dish. The original dish was adapted by the Hainanese overseas Chinese population in the Nanyang area (present-day Southeast Asia).</p>
-					<p>Almost every country in Asia with a history of immigration from China has a version. The San Francisco Chronicle says, "the dish maps 150 years’ immigration from China's Hainan Island...to Singapore and Malaysia, where the dish is often known as Hainan chicken rice; to Vietnam, where it is called "Hai Nam chicken"; and to Thailand, where it has been renamed "khao man gai" ("fatty rice chicken")."</p>
+					<p>Jeremy has always been fascinated by everything that makes a good plate of food. As a child, he would always be excited to go to his grandparents’ home to sink his teeth into a crunchy fried chicken. As he grows older, he will spend hours watching cooking shows, and experimenting in the kitchen. One day, his uncle made him a plate of poached chicken rice. Amazed by the skills required to make a simple plate of poached chicken rice, Jeremy was determined to perfect his own skills. Relentlessly trying to elevate his own recipe, he will try out different chicken rice stalls in Malaysia, and continuously improving. After years of repeating similar steps, Jeremy has found the ideal recipe for poached chicken rice.</p>
 				</div>
 			</div>
 			<div class="col-12 col-lg-5 col-md-12">
@@ -36,11 +35,11 @@ description: The story of Jeremy's chicks
 			</div>
 			<div class="col-12 col-lg-5 col-md-12">
 				<div class="col-12 nopad titlediv titlediv2">
-					<h4 class="font-title">And how he found his chick</h4>
+					<h4 class="font-title">And How He Found His Chick</h4>
 				</div>
 				<div class="col-12 nopad textdiv">
-					<p>Hainanese chicken rice is a dish adapted from early Chinese immigrants originally from Hainan province in southern China. It is based on a well-known Hainanese dish called Wenchang chicken (文昌雞), which is one of four important Hainan dishes dating to the Qin dynasty. The Hainanese in China traditionally used a specific breed, the Wenchang chicken, to make the dish. The original dish was adapted by the Hainanese overseas Chinese population in the Nanyang area (present-day Southeast Asia).</p>
-					<p>Almost every country in Asia with a history of immigration from China has a version. The San Francisco Chronicle says, "the dish maps 150 years’ immigration from China's Hainan Island...to Singapore and Malaysia, where the dish is often known as Hainan chicken rice; to Vietnam, where it is called "Hai Nam chicken"; and to Thailand, where it has been renamed "khao man gai" ("fatty rice chicken")."</p>
+					<p>During the first Movement Control Order (MCO) in Malaysia, Jeremy was trying to find ways to mitigate financial losses for Urban Daybreak, an all-day breakfast cafe. To ensure every kitchen crew and service crew is well taken care of, he had taken the unusual route to create an entirely new brand serving poached chicken rice, and that’s how Jeremy’s Chicks was born. Sharing the same kitchen as Urban Daybreak, Jeremy’s Chicks was well-received throughout MCO with orders coming in from the only food delivery platform at that time, The Other Kitchen.</p>
+					<p>When MCO was lifted in Klang Valley, Jeremy and team had started searching for a new location. After finding a sweet location in Hartamas, the team created a humble cloud kitchen, and expanded its menu. Welcoming other delicious ‘chicks’ including roasted, char siu, and fried, the team had also introduced new side dishes and combo meals. To ensure every ‘chick’ is delivered to every doorstep in Klang Valley, Jeremy’s Chicks is also now available in GrabFood, foodpanda, and airasia food.</p>
 				</div>
 			</div>			
 		</div>
@@ -51,11 +50,10 @@ description: The story of Jeremy's chicks
 		<div class="row infopage meetjeremy3">
 			<div class="col-12 col-lg-7 col-md-12">
 				<div class="col-12 nopad titlediv titlediv2">
-					<h4 class="font-title">Shakin' the world together</h4>
+					<h4 class="font-title">Shakin’ The World Together</h4>
 				</div>
 				<div class="col-12 nopad textdiv">
-					<p>Hainanese chicken rice is a dish adapted from early Chinese immigrants originally from Hainan province in southern China. It is based on a well-known Hainanese dish called Wenchang chicken (文昌雞), which is one of four important Hainan dishes dating to the Qin dynasty. The Hainanese in China traditionally used a specific breed, the Wenchang chicken, to make the dish. The original dish was adapted by the Hainanese overseas Chinese population in the Nanyang area (present-day Southeast Asia).</p>
-					<p>Almost every country in Asia with a history of immigration from China has a version. The San Francisco Chronicle says, "the dish maps 150 years’ immigration from China's Hainan Island...to Singapore and Malaysia, where the dish is often known as Hainan chicken rice; to Vietnam, where it is called "Hai Nam chicken"; and to Thailand, where it has been renamed "khao man gai" ("fatty rice chicken")."</p>
+					<p>Jeremy’s Chicks is more than just chicken rice. Being a part of the community, Jeremy’s Chicks had started several initiatives. During the Conditional Movement Control Order (CMCO), the delivery-based chicken rice joint offered a box of free chicken rice to every food delivery partner upon every order. On a more touching note, the team behind Jeremy’s Chicks noticed that one of the chicken rice sellers in Klang Valley was financially struggling. To aid, the team had bought 100 boxes of chicken rice from the chicken rice seller, matched the same amount to be given away to a local orphanage.</p>
 				</div>
 			</div>
 			<div class="col-12 col-lg-5 col-md-12">
