@@ -30,6 +30,7 @@ body {
 }
 
 h1, .h1 { font-size: 3rem;}
+p {line-height: 1.6em;}
 
 .fontfamily1 { font-family: 'Knewave', cursive;}
 .fontfamily2 { font-family: 'Noto Sans JP', sans-serif;}
@@ -481,7 +482,7 @@ ul.socialfootul li a.sociallifb {
 
 .google-maps {
     position: relative;
-    padding-bottom: 90%; 
+    padding-bottom: 100%; 
     height: 0;
     overflow: hidden;
 }
