@@ -23,6 +23,10 @@ description: Jeremy's chicks whereabouts
 					<a href="tel:+60323301031">03-2330 1031</a>
 					<a href="tel:+60164022880">016 - 402 2880</a>
 				</div>
+				<div class="col-12 nopad localcontact">
+					<img src="assets/images/contacticon-04.png" alt="email" class="img-fluid">
+					<a href="mailto:hello@jeremyschicks.com">hello@jeremyschicks.com</a>
+				</div>
 			</div>
 			<div class="col-12 col-md-8 localmap">
 				<div class="google-maps">
