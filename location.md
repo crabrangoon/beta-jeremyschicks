@@ -21,7 +21,7 @@ description: Jeremy's chicks whereabouts
 				<div class="col-12 nopad localcontact">
 					<img src="assets/images/contacticon-03.png" alt="phone" class="img-fluid">
 					<a href="tel:+60323301031">03-2330 1031</a>
-					<a href="tel:+60164022880">016 - 402 2880</a>
+					<a href="tel:+60164022880">012 - 969 1035</a>
 				</div>
 				<div class="col-12 nopad localcontact">
 					<img src="assets/images/contacticon-04.png" alt="email" class="img-fluid">
